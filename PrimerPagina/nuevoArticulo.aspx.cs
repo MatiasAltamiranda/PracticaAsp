@@ -19,6 +19,19 @@ namespace PrimerPagina
                     Session["listado"] = new List<Articulo>();
                 }
             }
+
+            if (Request.QueryString["id"] != null)
+            {
+                int id = int.Parse(Request.QueryString["id"].ToString());
+                List<Articulo> list = (List<Articulo>)Session["listado"];
+                Articulo seleccionado = list.Find(a => a.id == id);
+                tbID.Text = seleccionado.id.ToString();
+                tbNombre.Text = seleccionado.nombre;
+                tbCodigo.Text = seleccionado.codigo.ToString();
+                tbDireccion.Text = seleccionado.direccion.Nombre;
+                tbAltura.Text = seleccionado.direccion.altura.ToString();
+
+            }
         }
 
         protected void enviarArticulo_Click(object sender, EventArgs e)

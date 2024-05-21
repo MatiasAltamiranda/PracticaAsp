@@ -14,6 +14,8 @@ namespace Dominio
         public string nombre { get; set; }
 
         public Direccion direccion { get; set; }
+
+        public bool importado { get; set; }
     }
 
     public class NegocioArticulo
@@ -28,6 +30,7 @@ namespace Dominio
             articulo.direccion = new Direccion();
             articulo.direccion.Nombre = "España";
             articulo.direccion.altura = 1930;
+            articulo.importado = true;
             Articulo articulo2 = new Articulo();
             articulo2.id = 2;
             articulo2.codigo = 22;
@@ -35,6 +38,7 @@ namespace Dominio
             articulo2.direccion = new Direccion();
             articulo2.direccion.Nombre = "Avellaneda";
             articulo2.direccion.altura = 632;
+            articulo2.importado = false;
             lista.Add(articulo);
             lista.Add(articulo2);
 
