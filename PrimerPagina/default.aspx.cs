@@ -12,8 +12,16 @@ namespace PrimerPagina
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            NegocioArticulo NegocioArticulo = new NegocioArticulo();
-            dgvArticulo.DataSource = NegocioArticulo.listar();
+          
+                if (Session["listado"] == null)
+                {
+                    NegocioArticulo negocioArticulo = new NegocioArticulo();
+                    Session["listado"] = negocioArticulo.listar();
+                }
+            
+
+            // Enlaza la lista de artículos a dgvArticulo
+            dgvArticulo.DataSource = (List<Articulo>)Session["listado"];
             dgvArticulo.DataBind();
         }
     }

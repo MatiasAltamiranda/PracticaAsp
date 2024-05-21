@@ -70,6 +70,7 @@
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
     <Content Include="default.aspx" />
+    <Content Include="nuevoArticulo.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
@@ -89,6 +90,13 @@
     </Compile>
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="nuevoArticulo.aspx.cs">
+      <DependentUpon>nuevoArticulo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="nuevoArticulo.aspx.designer.cs">
+      <DependentUpon>nuevoArticulo.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

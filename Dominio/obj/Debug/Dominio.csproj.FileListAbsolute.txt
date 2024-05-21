@@ -4,3 +4,9 @@ D:\Matias\Cursos\MaxiPrograma\Entrega proyecto 2\Practica\Dominio\obj\Debug\Domi
 D:\Matias\Cursos\MaxiPrograma\Entrega proyecto 2\Practica\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 D:\Matias\Cursos\MaxiPrograma\Entrega proyecto 2\Practica\Dominio\obj\Debug\Dominio.dll
 D:\Matias\Cursos\MaxiPrograma\Entrega proyecto 2\Practica\Dominio\obj\Debug\Dominio.pdb
+D:\Lucas\.NET Framework\PracticaAsp\Dominio\bin\Debug\Dominio.dll
+D:\Lucas\.NET Framework\PracticaAsp\Dominio\bin\Debug\Dominio.pdb
+D:\Lucas\.NET Framework\PracticaAsp\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+D:\Lucas\.NET Framework\PracticaAsp\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\Lucas\.NET Framework\PracticaAsp\Dominio\obj\Debug\Dominio.dll
+D:\Lucas\.NET Framework\PracticaAsp\Dominio\obj\Debug\Dominio.pdb

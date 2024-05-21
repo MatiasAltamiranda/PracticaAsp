@@ -12,6 +12,8 @@ namespace Dominio
         public int codigo { get; set; }
 
         public string nombre { get; set; }
+
+        public Direccion direccion { get; set; }
     }
 
     public class NegocioArticulo
@@ -23,10 +25,16 @@ namespace Dominio
             articulo.id = 1;
             articulo.codigo = 11;
             articulo.nombre = "Telefono";
-         Articulo articulo2 = new Articulo();
+            articulo.direccion = new Direccion();
+            articulo.direccion.Nombre = "España";
+            articulo.direccion.altura = 1930;
+            Articulo articulo2 = new Articulo();
             articulo2.id = 2;
             articulo2.codigo = 22;
             articulo2.nombre = "Computadora";
+            articulo2.direccion = new Direccion();
+            articulo2.direccion.Nombre = "Avellaneda";
+            articulo2.direccion.altura = 632;
             lista.Add(articulo);
             lista.Add(articulo2);
 

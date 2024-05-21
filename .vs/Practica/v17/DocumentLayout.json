@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Matias\\Cursos\\MaxiPrograma\\Entrega proyecto 2\\Practica\\",
+  "WorkspaceRootPath": "D:\\Lucas\\.NET Framework\\PracticaAsp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F8B2E3E-5424-438F-BD63-BB6479EEDC3E}|PrimerPagina\\PrimerPagina.csproj|d:\\matias\\cursos\\maxiprograma\\entrega proyecto 2\\practica\\primerpagina\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F8B2E3E-5424-438F-BD63-BB6479EEDC3E}|PrimerPagina\\PrimerPagina.csproj|solutionrelative:primerpagina\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F8B2E3E-5424-438F-BD63-BB6479EEDC3E}|PrimerPagina\\PrimerPagina.csproj|d:\\matias\\cursos\\maxiprograma\\entrega proyecto 2\\practica\\primerpagina\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F8B2E3E-5424-438F-BD63-BB6479EEDC3E}|PrimerPagina\\PrimerPagina.csproj|D:\\Lucas\\.NET Framework\\PracticaAsp\\primerpagina\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F8B2E3E-5424-438F-BD63-BB6479EEDC3E}|PrimerPagina\\PrimerPagina.csproj|solutionrelative:primerpagina\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F82B231D-3C94-4EA0-B46B-B67E2DD896D1}|Dominio\\Dominio.csproj|d:\\matias\\cursos\\maxiprograma\\entrega proyecto 2\\practica\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F8B2E3E-5424-438F-BD63-BB6479EEDC3E}|PrimerPagina\\PrimerPagina.csproj|d:\\lucas\\.net framework\\practicaasp\\primerpagina\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F8B2E3E-5424-438F-BD63-BB6479EEDC3E}|PrimerPagina\\PrimerPagina.csproj|solutionrelative:primerpagina\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8B2E3E-5424-438F-BD63-BB6479EEDC3E}|PrimerPagina\\PrimerPagina.csproj|d:\\lucas\\.net framework\\practicaasp\\primerpagina\\nuevoarticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8B2E3E-5424-438F-BD63-BB6479EEDC3E}|PrimerPagina\\PrimerPagina.csproj|solutionrelative:primerpagina\\nuevoarticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82B231D-3C94-4EA0-B46B-B67E2DD896D1}|Dominio\\Dominio.csproj|D:\\Lucas\\.NET Framework\\PracticaAsp\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F82B231D-3C94-4EA0-B46B-B67E2DD896D1}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8B2E3E-5424-438F-BD63-BB6479EEDC3E}|PrimerPagina\\PrimerPagina.csproj|d:\\lucas\\.net framework\\practicaasp\\primerpagina\\nuevoarticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F8B2E3E-5424-438F-BD63-BB6479EEDC3E}|PrimerPagina\\PrimerPagina.csproj|solutionrelative:primerpagina\\nuevoarticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82B231D-3C94-4EA0-B46B-B67E2DD896D1}|Dominio\\Dominio.csproj|d:\\lucas\\.net framework\\practicaasp\\dominio\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82B231D-3C94-4EA0-B46B-B67E2DD896D1}|Dominio\\Dominio.csproj|solutionrelative:dominio\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,41 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "D:\\Lucas\\.NET Framework\\PracticaAsp\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
+              "ToolTip": "D:\\Lucas\\.NET Framework\\PracticaAsp\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Dominio\\Articulo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:51:36.562Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nuevoArticulo.aspx.cs",
+              "DocumentMoniker": "D:\\Lucas\\.NET Framework\\PracticaAsp\\PrimerPagina\\nuevoArticulo.aspx.cs",
+              "RelativeDocumentMoniker": "PrimerPagina\\nuevoArticulo.aspx.cs",
+              "ToolTip": "D:\\Lucas\\.NET Framework\\PracticaAsp\\PrimerPagina\\nuevoArticulo.aspx.cs",
+              "RelativeToolTip": "PrimerPagina\\nuevoArticulo.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:05:24.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nuevoArticulo.aspx",
+              "DocumentMoniker": "D:\\Lucas\\.NET Framework\\PracticaAsp\\PrimerPagina\\nuevoArticulo.aspx",
+              "RelativeDocumentMoniker": "PrimerPagina\\nuevoArticulo.aspx",
+              "ToolTip": "D:\\Lucas\\.NET Framework\\PracticaAsp\\PrimerPagina\\nuevoArticulo.aspx",
+              "RelativeToolTip": "PrimerPagina\\nuevoArticulo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-21T11:58:09.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Direccion.cs",
+              "DocumentMoniker": "D:\\Lucas\\.NET Framework\\PracticaAsp\\Dominio\\Direccion.cs",
+              "RelativeDocumentMoniker": "Dominio\\Direccion.cs",
+              "ToolTip": "D:\\Lucas\\.NET Framework\\PracticaAsp\\Dominio\\Direccion.cs",
+              "RelativeToolTip": "Dominio\\Direccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:49:00.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "default.aspx.cs",
-              "DocumentMoniker": "D:\\Matias\\Cursos\\MaxiPrograma\\Entrega proyecto 2\\Practica\\PrimerPagina\\default.aspx.cs",
+              "DocumentMoniker": "D:\\Lucas\\.NET Framework\\PracticaAsp\\PrimerPagina\\default.aspx.cs",
               "RelativeDocumentMoniker": "PrimerPagina\\default.aspx.cs",
-              "ToolTip": "D:\\Matias\\Cursos\\MaxiPrograma\\Entrega proyecto 2\\Practica\\PrimerPagina\\default.aspx.cs",
+              "ToolTip": "D:\\Lucas\\.NET Framework\\PracticaAsp\\PrimerPagina\\default.aspx.cs",
               "RelativeToolTip": "PrimerPagina\\default.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T23:48:09.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "D:\\Matias\\Cursos\\MaxiPrograma\\Entrega proyecto 2\\Practica\\Dominio\\Articulo.cs",
-              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
-              "ToolTip": "D:\\Matias\\Cursos\\MaxiPrograma\\Entrega proyecto 2\\Practica\\Dominio\\Articulo.cs",
-              "RelativeToolTip": "Dominio\\Articulo.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:51:36.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "default.aspx",
-              "DocumentMoniker": "D:\\Matias\\Cursos\\MaxiPrograma\\Entrega proyecto 2\\Practica\\PrimerPagina\\default.aspx",
+              "DocumentMoniker": "D:\\Lucas\\.NET Framework\\PracticaAsp\\PrimerPagina\\default.aspx",
               "RelativeDocumentMoniker": "PrimerPagina\\default.aspx",
-              "ToolTip": "D:\\Matias\\Cursos\\MaxiPrograma\\Entrega proyecto 2\\Practica\\PrimerPagina\\default.aspx",
+              "ToolTip": "D:\\Lucas\\.NET Framework\\PracticaAsp\\PrimerPagina\\default.aspx",
               "RelativeToolTip": "PrimerPagina\\default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
